@@ -59,6 +59,8 @@ The PDF Tool Bar gives you functions to manipulate your PDF documents.
 Say "Zoom In"/"Zoom Out"/"Fit to screen to perform the action.
 Say "Open Help" to access the help section.
 
+------
+<br />
 ## Roles and Responsibilities:
 
 Throughout making this project, each member played a key role, right from ideation, to design to developing. Pair programming technique was employed, where each pair worked on the part they had undertaken. Various aspects of this project were carried by all members, working as one under the guidance of the team leader. The roles played by each member is listed out as follows:
@@ -68,6 +70,9 @@ Throughout making this project, each member played a key role, right from ideati
 **Sreehari -** UI design, code cleaning, testing<br />
 **Vedant -** Design, testing, documentation<br />
 
+------
+<br />
+
 ## Challenges faced:
 
 Right from ideation to development and deployment, we faced a lot problems. The problems faced can be categorized as:<br /><br />
@@ -75,3 +80,5 @@ Right from ideation to development and deployment, we faced a lot problems. The 
 Another technical challenge we faced was fixing the speech recognition functioning. A lot of other small bugs were frequently faced during the UI design part, but were quickly fixable.<br /><br />
 **Abstract:** The biggest abstract challenge we faced was selecting an idea. Amongst a swarm of ideas, we had to choose an idea which was unique, complex and which could be used in the betterment of society. The next abstract challenge was faced in the design aspect of the project, as the UI had to be asethetically pleasing and yet simple.<br /><br />
 These were some of the major challenges faced by our team.
+
+------
