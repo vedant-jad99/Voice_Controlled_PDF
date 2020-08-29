@@ -59,7 +59,7 @@ The PDF Tool Bar gives you functions to manipulate your PDF documents.
 Say "Zoom In"/"Zoom Out"/"Fit to screen to perform the action.
 Say "Open Help" to access the help section.
 
-## Roles:
+## Roles and Responsibilities:
 
 Throughout making this project, each member played a key role, right from ideation, to design to developing. Pair programming technique was employed, where each pair worked on the part they had undertaken. Various aspects of this project were carried by all members, working as one under the guidance of the team leader. The roles played by each member is listed out as follows:
 
@@ -68,7 +68,7 @@ Throughout making this project, each member played a key role, right from ideati
 **Sreehari -** UI design, code cleaning, testing<br />
 **Vedant -** Design, testing, documentation<br />
 
-## Challenged faced:
+## Challenges faced:
 
 Right from ideation to development and deployment, we faced a lot problems. The problems faced can be categorized as:<br /><br />
 **Technical:** In the development and testing phase, we encountered lots of bugs till we perfected the software and make it deployable. The biggest problem was faced during the integration of speech recognition module with UI design.
