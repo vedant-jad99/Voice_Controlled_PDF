@@ -71,7 +71,11 @@ class PDFViewer(Frame):
                     if MyText.find('previous page')!=-1:
                         self._prev_page()
                     if MyText.find('next page')!=-1:
-                        self._next_page()
+                        self._first_page()
+                    if MyText.find('first page')!=-1:
+                        self._last_page()
+                    if MyText.find('last page')!=-1:
+                        self._next_page()    
                     if MyText.find('voice')!=-1:
                         self._voice_mode
                         
