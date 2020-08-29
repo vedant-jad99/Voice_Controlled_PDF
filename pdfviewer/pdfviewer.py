@@ -77,7 +77,7 @@ class PDFViewer(Frame):
                     if MyText.find('last page')!=-1:
                         self._next_page()    
                     if MyText.find('voice')!=-1:
-                        self._voice_mode
+                        self._voice_mode()
                         
                     if MyText.find('zoom in')!=-1:
                         self._zoom_in()
@@ -86,7 +86,7 @@ class PDFViewer(Frame):
                     if MyText.find('fit to screen')!=-1:
                         self._fit_to_screen()
                     if MyText.find('rotate')!=-1:
-                        self.rotate()    
+                        self._rotate()    
                     if MyText.find('dark')!=-1:
                         if mode==0:
                             self._dark_mode()
