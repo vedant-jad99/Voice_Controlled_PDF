@@ -99,7 +99,7 @@ These were some of the major challenges faced by our team.
 
 ------
 
-## Use case:
+## Conclusion:
 The main motivation for making this project was to provide a good reading experience for amputated people, who can control an application with just their voice. This is the targeted usecase for our project. 
 The software is also targeted for the general tech savvy demographic, or simply for people lazy enough to use the mouse for controlling a PDF viewer :D
 
