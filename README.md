@@ -63,10 +63,10 @@ Say "Open Help" to access the help section.
 
 Throughout making this project, each member played a key role, right from ideation, to design to developing. Pair programming technique was employed, where each pair worked on the part they had undertaken. Various aspects of this project were carried by all members, working as one under the guidance of the team leader. The roles played by each member is listed out as follows:
 
-**Yashdeep -** Team lead, motivator, main developer, testing
-**Shantanu -** Co-developer, debugger, testing
-**Sreehari -** UI design, code cleaning, testing
-**Vedant -** Design, testing, documentation
+**Yashdeep -** Team lead, motivator, main developer, testing<br />
+**Shantanu -** Co-developer, debugger, testing<br />
+**Sreehari -** UI design, code cleaning, testing<br />
+**Vedant -** Design, testing, documentation<br />
 
 ## Challenged faced:
 
