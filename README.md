@@ -12,8 +12,9 @@ Various functionalities have been embedded in the application to give user an am
 <br />
 
 ## ![](readme_icons/darkmode.png) Dark mode:
+<br />
 
-![](Images/Light_Mode.png){:height="50%" width="30%"}  ![](Images/Dark_Mode.png){:height="50%" width="30%"}
+<img src="Images/Light_Mode.png" width="40%"> <img src="Images/Dark_Mode.png" width=40%>
 
 This feature helps the user to switch to dark mode or switch back to light mode, depending on user's choices. The dark mode is set using visually aesthetic colors to give user a beautiful reading experience. This feature too is mouse as well as speech controlled.
 
