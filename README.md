@@ -1,5 +1,5 @@
 
-
+<br /><br />
 # ![](icons/pdf.png) Welcome to Voice control based PDFViewer
 
 Voice control based PDFViewer is a speech recognizable GUI written using python3 various modules, but heavily based on tkinter which lets you view PDF and image files and Speech Recognition library for all the speech based commands.
@@ -70,8 +70,8 @@ Throughout making this project, each member played a key role, right from ideati
 
 ## Challenged faced:
 
-Right from ideation to development and deployment, we faced a lot problems. The problems faced can be categorized as:
+Right from ideation to development and deployment, we faced a lot problems. The problems faced can be categorized as:<br /><br />
 **Technical:** In the development and testing phase, we encountered lots of bugs till we perfected the software and make it deployable. The biggest problem was faced during the integration of speech recognition module with UI design.
-Another technical challenge we faced was fixing the speech recognition functioning. A lot of other small bugs were frequently faced during the UI design part, but were quickly fixable
-**Abstract:** The biggest abstract challenge we faced was selecting an idea. Amongst a swarm of ideas, we had to choose an idea which was unique, complex and which could be used in the betterment of society. The next abstract challenge was faced in the design aspect of the project, as the UI had to be asethetically pleasing and yet simple.
+Another technical challenge we faced was fixing the speech recognition functioning. A lot of other small bugs were frequently faced during the UI design part, but were quickly fixable.<br /><br />
+**Abstract:** The biggest abstract challenge we faced was selecting an idea. Amongst a swarm of ideas, we had to choose an idea which was unique, complex and which could be used in the betterment of society. The next abstract challenge was faced in the design aspect of the project, as the UI had to be asethetically pleasing and yet simple.<br /><br />
 These were some of the major challenges faced by our team.
