@@ -13,6 +13,8 @@ Various functionalities have been embedded in the application to give user an am
 
 ## ![](readme_icons/darkmode.png) Dark mode:
 
+![](Images/Light_Mode.png){:height="50%" width="30%"}  ![](Images/Dark_Mode.png){:height="50%" width="30%"}
+
 This feature helps the user to switch to dark mode or switch back to light mode, depending on user's choices. The dark mode is set using visually aesthetic colors to give user a beautiful reading experience. This feature too is mouse as well as speech controlled.
 
 #### In speech mode-
@@ -39,7 +41,7 @@ To open directories say "Open Directory"
 
 <br />
 
-## ![](readme_icons/prev.png)Previous /![](readme_icons/next.png) Next page:
+## ![](readme_icons/prev.png)Previous / ![](readme_icons/next.png) Next page:
 
 This feature allows user to shift between pages of the document he is reading. This feature too, is working in speech mode as well as mouse mode.
 
@@ -81,4 +83,22 @@ Another technical challenge we faced was fixing the speech recognition functioni
 **Abstract:** The biggest abstract challenge we faced was selecting an idea. Amongst a swarm of ideas, we had to choose an idea which was unique, complex and which could be used in the betterment of society. The next abstract challenge was faced in the design aspect of the project, as the UI had to be asethetically pleasing and yet simple.<br /><br />
 These were some of the major challenges faced by our team.
 
+
 ------
+
+## Dependencies:
+
+#### matplotlib==3.1.2
+#### pdfplumber==0.5.23
+#### SpeechRecognition==3.8.1
+#### pyttsx3==2.90
+#### Pillow==7.2.0
+#### PyPDF2==1.26.0
+
+
+------
+
+## Use case:
+The main motivation for making this project was to provide a good reading experience for amputated people, who can control an application with just their voice. This is the targeted usecase for our project. 
+The software is also targeted for the general tech savvy demographic, or simply for people lazy enough to use the mouse for controlling a PDF viewer :D
+
