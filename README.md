@@ -20,7 +20,7 @@ To activate say "Dark Mode". To exit say "Light Mode".
 
 <br />
 
-## ![](readme_icons/voice.png)Speech mode:
+## ![](readme_icons/voice.png) Speech mode:
 
 By default it is enabled. It can be disabled if the user doesn't want to use it.
 The following tools listed below can be used in both speech mode as well as mouse mode.
@@ -28,7 +28,7 @@ While in speech mode to exit say "Exit".
 
 <br />
 
-## ![](readme_icons/open_file.png)Open Files:
+## ![](readme_icons/open_file.png) Open Files:
 
 The 'Open Files' function allows you to open one or multiple files into the PDFViewer.
 You're prompted with a dialog box where you can select all the files you want to open. Once you're done, PDFViewer cycles through each document in the list and let's you view each document.
@@ -39,7 +39,7 @@ To open directories say "Open Directory"
 
 <br />
 
-## ![](readme_icons/prev.png)![](readme_icons/next.png)Previous/Next page:
+## ![](readme_icons/prev.png)Previous /![](readme_icons/next.png) Next page:
 
 This feature allows user to shift between pages of the document he is reading. This feature too, is working in speech mode as well as mouse mode.
 
