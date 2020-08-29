@@ -1,6 +1,6 @@
 
 <br /><br />
-#  Welcome to Voice control based PDFViewer  <img src="readme_icons/icon1.png" width="10%">
+#  Welcome to Voice control based PDFViewer  <img src="readme_icons/icon1.png">
 
 Voice control based PDFViewer is a speech recognizable GUI written using python3 various modules, but heavily based on tkinter which lets you view PDF and image files and Speech Recognition library for all the speech based commands.
 
