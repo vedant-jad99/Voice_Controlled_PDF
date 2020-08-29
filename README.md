@@ -1,6 +1,6 @@
 
 
-# ![](icons/pdf.png)Welcome to Voice control based PDFViewer
+# ![](icons/pdf.png) Welcome to Voice control based PDFViewer
 
 Voice control based PDFViewer is a speech recognizable GUI written using python3 various modules, but heavily based on tkinter which lets you view PDF and image files and Speech Recognition library for all the speech based commands.
 
@@ -59,3 +59,19 @@ The PDF Tool Bar gives you functions to manipulate your PDF documents.
 Say "Zoom In"/"Zoom Out"/"Fit to screen to perform the action.
 Say "Open Help" to access the help section.
 
+## Roles:
+
+Throughout making this project, each member played a key role, right from ideation, to design to developing. Pair programming technique was employed, where each pair worked on the part they had undertaken. Various aspects of this project were carried by all members, working as one under the guidance of the team leader. The roles played by each member is listed out as follows:
+
+**Yashdeep -** Team lead, motivator, main developer, testing
+**Shantanu -** Co-developer, debugger, testing
+**Sreehari -** UI design, code cleaning, testing
+**Vedant -** Design, testing, documentation
+
+## Challenged faced:
+
+Right from ideation to development and deployment, we faced a lot problems. The problems faced can be categorized as:
+**Technical:** In the development and testing phase, we encountered lots of bugs till we perfected the software and make it deployable. The biggest problem was faced during the integration of speech recognition module with UI design.
+Another technical challenge we faced was fixing the speech recognition functioning. A lot of other small bugs were frequently faced during the UI design part, but were quickly fixable
+**Abstract:** The biggest abstract challenge we faced was selecting an idea. Amongst a swarm of ideas, we had to choose an idea which was unique, complex and which could be used in the betterment of society. The next abstract challenge was faced in the design aspect of the project, as the UI had to be asethetically pleasing and yet simple.
+These were some of the major challenges faced by our team.
