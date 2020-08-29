@@ -12,21 +12,15 @@ from pdfviewer.hoverbutton import HoverButton
 from pdfviewer.helpbox import HelpBox
 from pdfviewer.menubox import MenuBox
 from pdfviewer.display_canvas import DisplayCanvas
-# Python program to translate 
-# speech to text and text to speech 
   
   
 import speech_recognition as sr 
 import pyttsx3  
   
-# Initialize the recognizer  
 r = sr.Recognizer()  
   
-# Function to convert text to 
-# speech 
 def SpeakText(command): 
       
-    # Initialize the engine 
     engine = pyttsx3.init() 
     engine.say(command)  
     engine.runAndWait() 
@@ -36,27 +30,17 @@ mode=0
 mode2=0
 class PDFViewer(Frame):
     def listener(self):
-        # Exception handling to handle 
-        # exceptions at the runtime 
         global mode2
         while(mode2):
-            try:         
-                # use the microphone as source for input. 
+            try:
                 with sr.Microphone() as source2: 
-                    
-                    # wait for a second to let the recognizer 
-                    # adjust the energy threshold based on 
-                    # the surrounding noise level  
+                     
                     r.adjust_for_ambient_noise(source2, duration=0.2) 
                     
-                    #listens for the user's input  
                     audio2 = r.listen(source2) 
                     
-                    # Using ggogle to recognize audio 
                     MyText = r.recognize_google(audio2) 
                     MyText = MyText.lower()
-                    # if MyText=='open files':
-                    #     obj._open_file()
 
                     print("Did you say "+MyText) 
                     SpeakText(MyText)
@@ -207,8 +191,7 @@ class PDFViewer(Frame):
         HoverButton(tool_frame, image_path=os.path.join(ROOT_PATH, 'icons/help.png'), command=self._help,
                     width=50, height=50, bg=BACKGROUND_COLOR, bd=0, tool_tip="Help",
                     highlightthickness=0, activebackground=HIGHLIGHT_COLOR).grid(row=3, column=0, sticky='s')
-
-        # PDF Frame
+        
         pdf_frame.columnconfigure(0, weight=1)
         pdf_frame.rowconfigure(0, weight=0)
         pdf_frame.rowconfigure(1, weight=0)
